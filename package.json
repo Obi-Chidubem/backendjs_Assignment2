@@ -1,0 +1,22 @@
+{
+  "name": "assignment2",
+  "version": "1.0.0",
+  "description": "Assignment2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Obi-Chidubem/backendjs_Assignment2.git"
+  },
+  "author": "Obi Chidubem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Obi-Chidubem/backendjs_Assignment2/issues"
+  },
+  "homepage": "https://github.com/Obi-Chidubem/backendjs_Assignment2#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
